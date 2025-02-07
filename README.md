@@ -37,7 +37,7 @@ _**Screenshot of select statements from Athena showing the customer landing data
 
 *  `accelerometer_landing` table: 
 
-    <img src="./images/accelerometer_landing.png">
+    <img src="accelerometer_landing.png">
 
 * record count check for each landing zone table: 
 
@@ -56,9 +56,9 @@ _**Use Athena to query Trusted Glue Tables**_
 
 *  `customer_trusted` table: 
 
-    <img src="./images/customer_trusted.png">
+    <img src="customer_trusted.png">
 
-    <img src="./images/customer_trusted_check.png">
+    <img src="customer_trusted_check.png">
 
 
 ### Curated Zone

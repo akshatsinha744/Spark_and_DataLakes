@@ -41,7 +41,7 @@ _**Screenshot of select statements from Athena showing the customer landing data
 
 * record count check for each landing zone table: 
 
-    <img src="./images/landing_tables_record_count.png">
+    <img src="landing_tables_record_count.png">
 
 
 ### Trusted Zone
@@ -70,4 +70,4 @@ _**Glue Job Scripts:**_
 
 _**Screenshot of all Glue Tables**_ 
 
-<img src="./images/glue_tables.png" width=30% height=50%>
+<img src="glue_tables.png" width=30% height=50%>

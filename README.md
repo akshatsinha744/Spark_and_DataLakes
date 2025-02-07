@@ -33,7 +33,7 @@ _**Screenshot of select statements from Athena showing the customer landing data
 
 * `customer_landing` table:
 
-    <img src="./images/customer_landing.png">
+    <img src="customer_trusted.png">
 
 *  `accelerometer_landing` table: 
 
